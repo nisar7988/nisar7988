@@ -76,7 +76,7 @@ Whether you’re a **recruiter**, **startup founder**, or **business owner**, I 
 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/nisarahmed2003/   
 - 📧 **Email**: nisarahmed7988@gmail.com
-- 🌐 **Portfolio**: https://nisarportfolio-blue.vercel.app/
+- 🌐 **Portfolio**: https://nisarahmed.vercel.app/
 
 ---
 
