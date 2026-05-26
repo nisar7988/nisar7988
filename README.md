@@ -38,21 +38,26 @@ Whether you’re a **recruiter**, **startup founder**, or **business owner**, I 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- React.js  
-- JavaScript (ES6+)  
+- React.js
+- tanstack start, React Query 
+- JavaScript (ES6+) ,Typescript 
 - HTML5, CSS3  
-- Tailwind CSS, Bootstrap, Flowbite  
+- Tailwind CSS
 
 ### 📱 Mobile
-- React Native  
+- React Native
+- Expo
 - TypeScript  
-- Cross-platform UI development  
+- Cross-platform UI development
+- Android & IOS Mobile Apps
 
 ### ⚙️ Backend & Database
 - Node.js  
-- Express.js  
-- MongoDB & Mongoose  
-- MySQL  
+- Express.js
+- Nest.js
+- MongoDB   
+- MySQL
+- supabase
 
 ### 🔧 Tools & Practices
 - Git & GitHub  
