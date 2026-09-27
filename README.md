@@ -63,7 +63,6 @@ Real-time geolocation and geofencing to automatically trigger clock-in/clock-out
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisar7988&show_icons=true&theme=default&hide_border=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisar7988&hide_border=true" height="165">
 </p>
 
